@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+locale: "en-US"
+title: "GDCC Software, Workflow & Container Metadata Working Group" 
+description: "" 
+github: [metadata]
+plugins:
+    - jekyll-seo-tag
