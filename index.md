@@ -87,6 +87,7 @@ The SWC group aims to support and incorporate software, workflows, containers an
 </table>
 
 <br>
-<h2> Contact </h2>
+<h2>How to Get Involved</h2>
 
-Find us at the [Dataverse Community Slack](dataversecommunity.slack.com).
+Join the [Dataverse Community Slack](dataversecommunity.slack.com) channel and introduce yourself or email the Chair.
+
