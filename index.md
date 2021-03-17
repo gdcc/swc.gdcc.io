@@ -3,7 +3,7 @@
 
 The SWC group aims to support and incorporate software, workflows, containers and their metadata in the Dataverse data repository platform.
 
-**Chair:** Ana Trisovic<br> **Members:** Oliver Bertuch, Danny Brooke, Julian Gautier, Katie Mika, Jim Myers
+**Chair:** Ana Trisovic<br> **Members:** Oliver Bertuch, Danny Brooke, Julian Gautier, Katie Mika, Jim Myers, Slava Tykhonov
 
 <h2> Projects </h2>
 
