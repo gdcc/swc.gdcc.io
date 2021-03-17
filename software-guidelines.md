@@ -18,13 +18,13 @@ Capturing code dependencies will help other researchers recreate the necessary r
 
 Many programing languages already enable you to capture the dependencies automatically. Here are a few examples:
 
-- If you are using the conda package manager, you can export your environment with the command `conda env export > environment.yml`. 
+- If you are using the conda package manager, you can export your environment with the command `conda env export > environment.yml`. For more information, see the [official documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#sharing-an-environment).
 
-- Python has multiple conventions for capturing its dependencies, but probably the best-known one is with the `requirements.txt` file, which is created using the command `pip freeze > requirements. txt`.
+- Python has multiple conventions for capturing its dependencies, but probably the best-known one is with the `requirements.txt` file, which is created using the command `pip freeze > requirements. txt`. Managing environments with `pip` is explained in the [official documentation](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip).
 
-- If you are using the R programming language, create a file called `install.R`, and list all library dependencies that your code requires. This file should be executable in R to set up the environment.
+- If you are using the R programming language, create a file called `install.R`, and list all library dependencies that your code requires. This file should be executable in R to set up the environment. See also other strategies for capturing the environment proposed by RStudio in the [official documentation](https://environments.rstudio.com).
 
-- In case you are using multiple programming languages or different versions of the same language, it would be best to use a containerization technology such as Docker. Create a Dockerfile that builds your environment (make sure to specify dependency versions) and deposit it with the rest of the files.
+- In case you are using multiple programming languages or different versions of the same language, it would be best to use a containerization technology such as Docker. Create a Dockerfile that builds your environment (make sure to specify dependency versions) and deposit it with the rest of the files. Have a look at the [official Docker guide](https://docs.docker.com/language/python/build-images/) for more information.
 
 We recommend taking a look at [Jupyter Binder's documentation](https://mybinder.readthedocs.io/en/latest/using/config_files.html#config-files) for other configuration files that capture code dependencies. 
 
