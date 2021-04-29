@@ -23,5 +23,5 @@ Working group meetings are taking place biweekly on Mondays at 10 AM ET on [Zoom
 <br>
 <h2>Get in touch</h2>
 
-We welcome anyone who wants to join our discussions. Send us an email or join the [Dataverse Community Slack](dataversecommunity.slack.com) channel.
+We welcome anyone who wants to join our discussions. Send us an email or join the [Dataverse Community Slack](https://dataversecommunity.slack.com) channel.
 <br>
