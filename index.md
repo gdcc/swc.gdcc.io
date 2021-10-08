@@ -16,12 +16,23 @@ The SWC group aims to support research software, workflows, and container dissem
 </ul>
 
 <br>
+<h2>References</h2>
+
+- CodeMeta Schema PR: <https://github.com/IQSS/dataverse/pull/7877>
+- Dataverse External Vocabulary Support <https://github.com/gdcc/dataverse-external-vocab-support>
+- External Status Label PR: <https://github.com/IQSS/dataverse/pull/7967>
+- FAIR Principles for Research Software (FAIR4RS Principles): <https://www.rd-alliance.org/group/fair-research-software-fair4rs-wg/outcomes/fair-principles-research-software-fair4rs>
+
+<br>
 <h2>Working group meetings</h2>
 
-Working group meetings are taking place biweekly on Mondays at 10 AM ET on [Zoom](https://zoom.us). Meeting notes are available  [here](https://docs.google.com/document/d/1Gr-P5EG1AK-0cTYx9JndtgsRQFuwHNKXck39_MwknWg/edit?usp=sharing).
+Contact us to find out the next meeting time. All meetings are held on [Zoom](https://zoom.us). Meeting notes are available  [here](https://docs.google.com/document/d/1Gr-P5EG1AK-0cTYx9JndtgsRQFuwHNKXck39_MwknWg/edit?usp=sharing).
 
 <br>
 <h2>Get in touch</h2>
 
 We welcome anyone who wants to join our discussions. Send us an email or join the [Dataverse Community Slack](https://dataversecommunity.slack.com) channel.
+
+<br>
+
 <br>
