@@ -1,4 +1,4 @@
-**Members:** Oliver Bertuch, Danny Brooke, Philip Durbin, Julian Gautier, Dorothea Iglezakis, Genevieve Michaud, Katie Mika, Jim Myers, Slava Tykhonov, Tom Vilette<br> **Chair:** <a href="https://projects.iq.harvard.edu/atrisovic">Ana Trisovic</a>
+**Members:** Danny Brooke, Philip Durbin, Julian Gautier, Dorothea Iglezakis, Genevieve Michaud, Katie Mika, Jim Myers, Ana Trisovic, Slava Tykhonov, Tom Vilette<br> **Chair:** Oliver Bertuch
 
 <br>
 <h2>Motivation and goals</h2>
