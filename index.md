@@ -1,4 +1,4 @@
-**Members:** Danny Brooke, Philip Durbin, Julian Gautier, Dorothea Iglezakis, Genevieve Michaud, Katie Mika, Jim Myers, Ana Trisovic, Slava Tykhonov, Tom Vilette<br> **Chair:** Oliver Bertuch
+**Members:** Danny Brooke, Philip Durbin, Julian Gautier, Dorothea Iglezakis, Genevieve Michaud, Katie Mika, Jim Myers, Slava Tykhonov, Tom Vilette<br> **Chairs:** Oliver Bertuch, Ana Trisovic
 
 <br>
 <h2>Motivation and goals</h2>
